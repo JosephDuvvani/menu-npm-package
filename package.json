@@ -1,0 +1,23 @@
+{
+  "name": "@josephduvvani/menu",
+  "version": "1.0.0",
+  "description": "Dropdown menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Duvvani",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephDuvvani/menu-npm-package.git"
+  },
+  "keywords": [
+    "dropdown",
+    "menu"
+  ],
+  "bugs": {
+    "url": "https://github.com/JosephDuvvani/menu-npm-package/issues"
+  },
+  "homepage": "https://github.com/JosephDuvvani/menu-npm-package#readme"
+}
